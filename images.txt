@@ -1,2 +1,2 @@
 koush/scrypted
-docker-homebridge
+homebridge/homebridge
