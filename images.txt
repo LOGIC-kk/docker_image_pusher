@@ -1,4 +1,3 @@
 koush/scrypted
-homebridge/homebridge
 oznu/homebridge
 oznu/homebridge:ubuntu
